@@ -1,2 +1,4 @@
 # Git_course
-Elzero course for Git
+today is a great day
+## Elzero course for Git
+see u later my bro
